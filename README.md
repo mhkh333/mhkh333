@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-## 🔭 I’m currently studing CE @ SBU
-## 🌱 I’m currently learning more in FrontEnd and BackEnd.
+## 🔭 I’m currently studying CS @ SBU
+## 🌱 I’m currently learning more about FrontEnd and BackEnd.
 
 ### 📫 How to reach me: mohammadkhoram3@gmail.com
